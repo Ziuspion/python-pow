@@ -2,3 +2,5 @@
 # Compare type() e isinstance()
 # para verificar se um booleano
 # é considerado inteiro.
+print(type(True))
+print(isinstance(True, int))
